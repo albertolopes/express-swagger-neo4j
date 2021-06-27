@@ -1,0 +1,22 @@
+{
+  "name": "express-swagger-neo4j",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertolopes/express-swagger-neo4j.git"
+  },
+  "author": "Alberto Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertolopes/express-swagger-neo4j/issues"
+  },
+  "homepage": "https://github.com/albertolopes/express-swagger-neo4j#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
